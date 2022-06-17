@@ -1,0 +1,8 @@
+[12-Apr-2022 22:11:48 UTC] PHP Notice:  Undefined index: subject in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 9
+[12-Apr-2022 22:11:53 UTC] PHP Notice:  Undefined index: subject in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 9
+[12-Apr-2022 22:11:55 UTC] PHP Notice:  Undefined index: subject in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 9
+[12-Apr-2022 22:11:57 UTC] PHP Notice:  Undefined index: subject in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 9
+[12-Apr-2022 22:13:20 UTC] PHP Notice:  Undefined index: subject in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 9
+[12-Apr-2022 22:13:37 UTC] PHP Notice:  Undefined index: subject in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 9
+[12-Apr-2022 22:52:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'GMT-5' is invalid in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 2
+[12-Apr-2022 22:58:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'GMT-5' is invalid in /home/sddrp9bm44pc/public_html/assets/php/mail.php on line 2
