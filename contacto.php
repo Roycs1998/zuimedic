@@ -1,20 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-
-
-	<head>
-		<!-- Meta -->
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-			
-		<!-- SITE TITLE -->
-		<title>ZUI MEDIC - CONTACTANOS</title>
-		<?php include('assets/estructura/links.php');?>
-
-	</head>
-
+	<?php include('assets/estructura/links.php');?>
 	<body>
 
 		<!-- Page Wrapper -->
@@ -43,7 +29,7 @@
 			
 
 			<div class="atf-content clearfix">
-				<div class="atf-page-heading atf-size-md atf-dynamic-bg" data-stellar-background-ratio="0.3" style="background-image: url(assets/img/banner/contacto-min.jpg); background-size:cover; background-position: center center;">
+				<div class="atf-page-heading atf-size-md atf-dynamic-bg" data-stellar-background-ratio="0.3" style="background: 50% 15px rgb(75, 199, 183); background-size:cover; background-position: center center;">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-xl-7 col-md-6 col-12">
@@ -113,7 +99,7 @@
 									<div class="atf-contact-details">
 										<i class="fa fa-envelope"></i>
 										<h4>Correo Electrónico</h4>
-										<p>ebelin@zuimedic.com</p>
+										<p>comercial@zuimedic.com</p>
 									</div>
 								</div><!--- END CONTACT -->
 							</div><!--- END COL -->

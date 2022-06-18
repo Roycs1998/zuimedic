@@ -1,20 +1,6 @@
 <!DOCTYPE html>
-<html lang="es">
-
-	<head>
-		<!-- Meta -->
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		
-		<!-- SITE TITLE -->
-		<title>ZUI MEDIC - Salud y Bienestar</title>
-		
-		
-        <?php include('assets/estructura/links.php');?>
-	</head>
-
+<html lang="es">	
+    <?php include('assets/estructura/links.php');?>
 	<body>
 		<!-- Page Wrapper -->
 		<div class="page-wrapper">
@@ -49,7 +35,7 @@
 													<p class="pr-lg-5">Nuestros médicos y enfermeras ocupacionales se encargan de velar por la salud de tus colaboradores realizando actividades de control y supervisión.</p>
 													<!-- Main-btn -->
 													<div class="atf-main-btn mt-3"> 
-														<a href="contact.php" class="page-scroll atf-themes-btn mr-4">Contactanos<i class="fa fa-angle-right"></i></a>
+														<a href="contacto.php" class="page-scroll atf-themes-btn mr-4">Contactanos<i class="fa fa-angle-right"></i></a>
 														<a href="#" class="page-scroll atf-themes-btn">Ver más<i class="fa fa-angle-right"></i></a>
 													</div>
 												</div><!--- END COL -->
@@ -57,9 +43,7 @@
 										</div><!--- END CONTAINER -->
 									</div><!--- END Overlay -->			
 								</div><!--- END slide -->			
-							</div><!-- .slick-slide-in -->
-							
-
+							</div><!-- .slick-slide-in -->							
 						</div>
 					</div><!-- .slick-container -->
 					
@@ -96,7 +80,7 @@
 												Es importante la incorporación de profesionales de la salud en los centros de trabajo. Ellos cumplen la función de gestionar o realizar la vigilancia de la SALUD de los TRABAJADORES.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
@@ -117,7 +101,7 @@
 												Ellas   tienen   como   objetivo   CONSERVAR   LA   SALUD   del   trabajador,   prevención y atención de accidentes de trabajo, protegiendo al personal de daños o efermedades a raiz de su acción laboral.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
@@ -138,7 +122,7 @@
 												Es  aquel  profesional,  quien  cuenta  con  conocimientos  sólidos  sobre  la  actividad  humana,  el  trabajo  y  los  riesgos  laborales,  los  cuales  pueden  adquirirse de ramas y disciplinas de la ciencia como las ciencias de la salud o las sociales.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
@@ -159,7 +143,7 @@
 												Son aquellos quienes se enfocan en asistir en el desarrollo de destrezas y en la rehabilitación de personas con discapacidades físicas o mentales. Con el fin de brindarles las herramientas necesarias para que logren funcionar como miembros regulares de la sociedad.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
@@ -180,7 +164,7 @@
 												Son aquellos quienes se enfocan en asistir en el desarrollo de destrezas y en la rehabilitación de personas con discapacidades físicas o mentales. Con el fin de brindarles las herramientas necesarias para que logren funcionar como miembros regulares de la sociedad.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
@@ -201,7 +185,7 @@
 												Estos exámenes son de alta importancia para la salud del trabajador, además permite diagnosticar  a  tiempo  alguna  condición  que  pueda  relacionarse  con  su  actividad  laboral. El objetivo de estos, son la vigilancia de la salud de los trabajadores.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
@@ -222,7 +206,7 @@
 												Son aquel personal especialista en tratar emergencias de salud o aquellas en las que se haya registrado un riesgo de vida.
 											</p>
 											<div class="atf-main-btn atf-blog-btn mt-2 pb-4 ml-3">
-												<a href="contact.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
+												<a href="contacto.php" class="atf-themes-btn">Cotizar<i class="fa fa-angle-right atf-blogs-btn"></i></a>
 											</div>
 										</div>
 									</div><!-- .slick-slide-in -->
