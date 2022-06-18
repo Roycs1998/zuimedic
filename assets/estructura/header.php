@@ -26,22 +26,19 @@
 
 							<div class="atf-main-header-right">
 								<div class="atf-nav">
-									<ul class=" navbar  collapse atf-nav-list atf-onepage-nav">
+									<ul class=" atf-nav-list atf-onepage-nav">
 										<li><a href="inicio" >Inicio</a></li>
-										<li class="nav-item  nav-item dropdown ">
-											<a class="nav-link  nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-												Servicios
-											</a>
-											<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-												<a class="dropdown-item" href="servicios?tipo=medicos">Seguridad en el Trabajo</a>
-												<a class="dropdown-item" href="servicios?tipo=salud">Salud Ocupacional</a>
-												<a class="dropdown-item" href="servicios?tipo=monitoreo">Monitoreo Ocupacional</a>
-												<a class="dropdown-item" href="servicios?tipo=sistemas">Sistema de Gestión</a>
-												<a class="dropdown-item" href="servicios?tipo=capacitacion">Capacitación y Entrenamiento</a>
-												<a class="dropdown-item" href="servicios?tipo=homologacion">Homologación de Proveedores</a>
-												<a class="dropdown-item" href="servicios?tipo=auditoria">Auditoria</a>
 
-											</div>
+										<li class="menu-item-has-children"><a href="#" class="atf-smooth-move">Servicios<i class="fa fa-chevron-down ml-2"></i></a>
+											<ul>
+												<li><a href="servicios?tipo=medicos">Seguridad en el Trabajo</a></li>
+												<li><a href="servicios?tipo=enfermeras">Salud Ocupacional</a></li>
+												<li><a href="servicios?tipo=monitoreo">Monitoreo Ocupacional</a></li>
+												<li><a href="servicios?tipo=sistemas">Sistema de Gestión</a></li>
+												<li><a href="servicios?tipo=capacitacion">Capacitación y Entrenamiento</a></li>
+												<li><a href="servicios?tipo=homologacion">Homologación de Proveedores</a></li>
+												<li><a href="servicios?tipo=auditoria">Auditoria</a></li>
+											</ul>
 										</li>
 										<li><a href="contacto">Contacto</a></li>
 									</ul><!--- END NAV -->

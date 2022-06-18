@@ -34,9 +34,42 @@
 													<h2 class="mb-0 d-block d-lg-block">TU SALUD ES NUESTRA PRIORIDAD</h2>
 													<p class="pr-lg-5">Nuestros médicos y enfermeras ocupacionales se encargan de velar por la salud de tus colaboradores realizando actividades de control y supervisión.</p>
 													<!-- Main-btn -->
-													<div class="atf-main-btn mt-3"> 
+													<div class="d-block d-sm-block d-md-none atf-main-btn mt-3"> 
 														<a href="contacto.php" class="page-scroll atf-themes-btn mr-4">Contactanos<i class="fa fa-angle-right"></i></a>
 														<a href="#" class="page-scroll atf-themes-btn">Ver más<i class="fa fa-angle-right"></i></a>
+													</div>
+												</div><!--- END COL -->
+												<div class="d-none d-sm-none d-md-block col-xl-6 col-lg-6 col-12 atf-hero-img text-lg-center wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInRight;">
+													<div class="formulario-inicio">
+														<form id="contact-form" class="atf-contact-form form" method="POST" action="assets/php/mail.php">
+															<div class="row">
+																<div class="form-group col-md-6">
+																	<input type="text" name="name" class="form-control" id="name" placeholder="Nombres" required="required">
+																</div>
+																<div class="form-group col-md-6">
+																	<input type="email" name="email" class="form-control" id="email" placeholder="Correo electrónico" required="required">
+																</div>
+																<div class="form-group col-md-6">
+																	<input type="text" name="celular" class="form-control" id="celular" placeholder="Celular" required="required">
+																</div>
+																<div class="form-group col-md-6">
+																	<input type="text" name="ruc" class="form-control" id="ruc" placeholder="RUC" required="required">
+																</div>
+																<div class="form-group col-md-12">
+																	<input type="text" name="subject" class="form-control" id="subject" placeholder="Razón Social" required="required">
+																</div>
+																
+																<div class="form-group col-md-12">
+																	<textarea rows="6" name="message" class="form-control" id="message" placeholder="Mensaje" required="required"></textarea>
+																</div>
+																<div class="col-md-12">
+																	<div class="actions atf-contact-btn text-left">
+																		<button type="submit" value="Enviar Mensaje" name="submit" id="submitButton" class="btn atf-themes-btn" title="Enviar Mensaje!" >Contactar</button>
+																	</div>
+																</div>
+															</div>
+														</form>
+														<p class="form-message"></p>
 													</div>
 												</div><!--- END COL -->
 											</div><!--- END ROW -->
@@ -55,7 +88,7 @@
 				</div><!-- .atf-slider -->
 			</section>
 			<!-- END  HOME DESIGN -->
-			
+
 			<!--- START SECTION SERVICES -->
 			<div id="servicio" class="atf-section-padding atf-blog-area atf-blog-grid-area">
 			<div  class="container">

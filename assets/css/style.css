@@ -49,7 +49,7 @@ body {
 	font-weight: 400;
 	font-style: normal;
 	color:  var(--thm-p);
-	line-height: 0 !important;
+	
 }
 :root {
 	--thm-font: 'Poppins', sans-serif;
@@ -105,6 +105,17 @@ li {
     margin: 0;
     padding: 0;
 }
+.formulario-inicio{
+	padding: 5% 10%;
+    background: #4bc7b77a;
+    border-radius: 5px;
+}
+.sub-servicios > div{
+
+	padding: 5px;
+
+}
+
 p {
 	padding: 0;
 	margin: 0;
@@ -255,7 +266,7 @@ button, input, textarea:focus {
 /*START SECTION PADDING DESIGN*/
 
 .atf-section-padding {
-	padding: 90px 0;
+	padding: 70px 0;
 }
 
 /*START SECTION TITLE DESIGN*/
@@ -1080,9 +1091,7 @@ button, input, textarea:focus {
 }
 
 @media screen and (max-width: 991px) {
-    body{
-        line-height: 0 !important;
-    }
+
 	.atf-slider .pagination.atf-hidden {
 		display: block;
 		margin-top: 20px; }

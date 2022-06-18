@@ -127,7 +127,22 @@
 					</div>
 				</div>
 			</section>
-
+            <section class="atf-promo-offer atf-align-items-details" data-stellar-background-ratio="0.3" style="background-image: url(&quot;assets/img/gallery/4.jpg&quot;); background-size: cover; background-position: 50% -150.36px;">
+						<div class="container">
+							<div class="row justify-content-left">
+								<div class="col-xl-6 col-lg-6 col-12 text-left">
+									<div class="atf-promo-content atf-main-btn">
+										<h5 class="mb-2 text-uppercase text-white">Exclusive On Majid</h5>
+										<h3 class="">New Year Sale</h3>
+										<p class="text-white pr-lg-5">Lorem elementum Sed congue nisl dolorSed congue nisl dolor Lorem elementum Sed congue nisl dolorSed.</p>
+										<div class="atf-main-btn mt-4"> 
+										<a href="#" class="page-scroll atf-themes-btn">Shop Now<i class="fa fa-angle-right"></i></a>
+									</div>
+									</div>
+								</div><!-- END COL  -->
+							</div><!--END  ROW  -->
+						</div><!-- END CONTAINER  -->
+			</section>
 				<!-- CONTACT SECTION END-->
 				
 				<!-- Google Map start-->
