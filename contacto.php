@@ -50,7 +50,7 @@
 						<div class="row">
 							<div class="col-xl-6 col-lg-6 col-12 my-auto mx-auto">
 								<div class="contact mr-lg-5"> 
-									<h4>CONTACTANOS</h4>
+									<h4>Cotiza tu servicio</h4>
 									<form id="contact-form" class="atf-contact-form form" method="POST" action="assets/php/mail.php">
 										<div class="row">
 											<div class="form-group col-md-6">
